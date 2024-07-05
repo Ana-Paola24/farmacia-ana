@@ -9,6 +9,8 @@ function Navbar() {
 
             <div className='flex gap-4'>
               <div className='hover:underline'>Categorias</div>
+              <div className='hover:underline'>Cadastrar Categorias</div>
+
 
             </div>
           </div>
