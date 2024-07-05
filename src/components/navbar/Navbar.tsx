@@ -9,6 +9,7 @@ function Navbar() {
             <Link to='/' className='text-2xl font-bold uppercase'>Farmacia Popular</Link>
             <div className='flex gap-4'>
               
+              <Link to='/' className='hover:underline'>Home</Link>
               <Link to='/categorias' className='hover:underline'>Categorias</Link>
               <Link to='/cadastroCategoria' className='hover:underline'>Cadastrar Categoria</Link>
 
